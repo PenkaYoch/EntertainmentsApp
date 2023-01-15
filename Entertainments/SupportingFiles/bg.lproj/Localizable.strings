@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  Entertainments
+
+  Created by Penka Yochkova on 15.01.23.
+  
+*/
+
+"Sort" = "Сортирай";
+"Entertainments" = "Забавления";
+"Earliest start time" = "Най-ранен начален час";
+"Latest start time" = "Най-късен начален час";
